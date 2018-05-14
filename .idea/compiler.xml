@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-sample" />
+        <module name="cloudsample" />
+        <module name="sampel-feign" />
+        <module name="sample-client" />
+        <module name="sample-config" />
+        <module name="sample-configs" />
+        <module name="sample-eureka" />
+        <module name="sample-lucene" />
+        <module name="sample-ribbon" />
+        <module name="sample-service" />
+        <module name="service-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-sample" target="1.5" />
+      <module name="cloudsample" target="1.5" />
+      <module name="sampel-feign" target="1.8" />
+      <module name="sample-client" target="1.8" />
+      <module name="sample-config" target="1.8" />
+      <module name="sample-configs" target="1.8" />
+      <module name="sample-eureka" target="1.8" />
+      <module name="sample-feign" target="1.8" />
+      <module name="sample-lucene" target="1.8" />
+      <module name="sample-ribbon" target="1.8" />
+      <module name="sample-ribbons" target="1.8" />
+      <module name="sample-service" target="1.8" />
+      <module name="service-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

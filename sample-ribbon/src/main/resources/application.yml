@@ -1,0 +1,10 @@
+server:
+  port: 8888
+
+eureka:
+ client:
+  serviceUrl:
+    defaultZone: http://rdserver:8769/eureka/
+spring:
+  application:
+    name: sample-ribbon

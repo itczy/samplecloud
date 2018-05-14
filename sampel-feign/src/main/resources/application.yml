@@ -1,0 +1,9 @@
+server:
+  port: 9991
+spring:
+  application:
+    name: sample-feign
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://rdserver:8769/eureka/

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-sample.iml" filepath="$PROJECT_DIR$/cloud-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampel-feign/sampel-feign.iml" filepath="$PROJECT_DIR$/sampel-feign/sampel-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-client/sample-client.iml" filepath="$PROJECT_DIR$/sample-client/sample-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-config/sample-config.iml" filepath="$PROJECT_DIR$/sample-config/sample-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-configs/sample-configs.iml" filepath="$PROJECT_DIR$/sample-configs/sample-configs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-eureka/sample-eureka.iml" filepath="$PROJECT_DIR$/sample-eureka/sample-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-lucene/sample-lucene.iml" filepath="$PROJECT_DIR$/sample-lucene/sample-lucene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-ribbon/sample-ribbon.iml" filepath="$PROJECT_DIR$/sample-ribbon/sample-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-service/sample-service.iml" filepath="$PROJECT_DIR$/sample-service/sample-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
+    </modules>
+  </component>
+</project>

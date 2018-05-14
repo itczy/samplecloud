@@ -1,0 +1,15 @@
+server:
+  port: 8769
+
+spring:
+  profiles: peer2
+  application:
+      name: eureka
+eureka:
+  instance:
+    hostname: rdserver
+  client:
+    serviceUrl:
+      defaultZone: http://zkserver:8761/eureka/
+    register-with-eureka: true
+    fetch-registry: true

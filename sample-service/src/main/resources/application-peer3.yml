@@ -1,0 +1,10 @@
+server:
+  port: 6003
+spring:
+  application:
+    name: sample-service
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://rdserver:8769/eureka/

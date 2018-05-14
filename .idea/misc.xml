@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-client/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-config/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-configs/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-service/pom.xml" />
+        <option value="$PROJECT_DIR$/service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/sampel-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/sample-lucene/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
